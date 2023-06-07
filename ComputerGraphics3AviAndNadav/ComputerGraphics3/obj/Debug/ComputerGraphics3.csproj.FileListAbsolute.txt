@@ -1,0 +1,133 @@
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.CoreCompileInputs.cache
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\nehor\source\repos\ComputerGraphics3\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.CoreCompileInputs.cache
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\nehoraie\Downloads\ExtensionDownloads\ComputerGraphics3 (3)\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.CoreCompileInputs.cache
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\nehor\Downloads\ComputerGraphics3 (1)\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏cg3AviAndNadav - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏‏‏cg3AviAndNadav - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏‏‏‏‏‏‏cg3AviAndNadav - עותק - עותק - עותק - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏טיוטה 1 - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\טיוטה 2\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\טיוטה 3\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\AviAndNadavComputerGraphics3\computergraphics3AviAndNadav\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\computer graphics , 3d exercise\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe.config
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\bin\Debug\ComputerGraphics3.pdb
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.g.resources
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Form1.resources
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.Properties.Resources.resources
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.exe
+C:\Users\Home\Desktop\‏‏computer graphics , 3d exercise - עותק\ComputerGraphics3AviAndNadav\ComputerGraphics3\obj\Debug\ComputerGraphics3.pdb
