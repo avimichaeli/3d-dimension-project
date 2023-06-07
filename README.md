@@ -1,2 +1,2 @@
-# 3d dimentions project
+# 3d dimention project
  3d dimentions project
